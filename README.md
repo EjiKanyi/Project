@@ -20,42 +20,8 @@ The goal is to extract actionable insights for tailored retention strategies, en
 bolstering SyriaTel's retention efforts.
 
 
-## <medium> General Objectives </medium>
-
-1. Develop a robust binary classification model capable of accurately predicting customer churn based on historical data.
-
-2. Extract actionable insights from the predictive model to provide a deeper understanding of factors contributing to 
-customer churn.
-
-3. Tailor and optimize retention strategies by utilizing the insights derived from the model, specifically targeting 
-at-risk customers.
-
-4. Utilize identified patterns and factors influencing churn to enhance overall customer satisfaction and experience.
-
-5. Document the entire process, from data preparation to model development, and effectively communicate findings and 
-recommendations to stakeholders, ensuring transparency and understanding.
-
 ## RECOMMENDATIONS
 
 1. Identify factors contributing to churn and implement strategies to address these issues, such as personalized offers, improved customer support, or service enhancements.
 
 2. Regularly evaluate the decison tree model using new data to ensure its effectiveness in real-world scenarios
-
-Establish a feedback loop to gather information on the effectiveness of implemented strategies.
-
-3. Adopt the Tuned Decision Tree Model since it has demonstrated better overall performance, especially in correctly identifying customers likely to churn.
-
-4. SyriaTel should introduce flexible plans or additional services based on identified patterns to meet diverse customer needs..
-
-
-## CONCLUSIONS
-
-1. Regular monitoring of competitors and adjustments to strategies based on market dynamics will be crucial for maintaining a competitive edge.
-
-2. A customer-centric approach, informed by data-driven insights, will be instrumental in building lasting relationships and loyalty.
-
-3. SyriaTel should plan for the long term, incorporating scalability, sustainability, and adaptability to evolving market trends and customer expectations.
-
-4. Ethical considerations and transparent communication are crucial in building trust with customers and maintaining a positive brand image.
-
-5. Consideration of flexible service plans and continuous innovation in services can cater to diverse customer needs and preferences.
